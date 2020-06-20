@@ -45,6 +45,3 @@ spec:
             httpGet:
               path: /
               port: http
-          resources:
-            limits:
-              cpu: 1
